@@ -1,0 +1,42 @@
+#NON-CURRENT-ASSETS
+motor vehicles
+motor vehicle
+property
+premises
+office equipment
+equipment
+fixture and fittings
+
+/end
+
+
+#CURRENT-ASSETS
+cash in hand
+cash at bank
+inventory
+trade receivables
+trade receivable
+
+
+/end
+
+#EQUITY
+capital
+drawings
+profit
+/end
+
+#NON-CURRENT-LIABILITIES
+long term borrowings
+long term borrowing
+bank loan
+/end
+
+#CURRENT-LIABILITIES
+trade payables
+trade payable
+current portion of long term borrowing
+current portion of long term borrowings
+/end
+
+
